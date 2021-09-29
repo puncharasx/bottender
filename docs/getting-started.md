@@ -1,8 +1,8 @@
 ---
 id: getting-started
 title: Getting Started
+slug: /
 ---
-
 ## Create a New Bottender App
 
 **Create Bottender App** is the best way to start building a new app in Bottender.
@@ -10,10 +10,12 @@ title: Getting Started
 It initializes your development environment for latest Bottender features, provides a great experience for multi-channel development, and optimizes your app for production deployment. To create a project, run:
 
 ```sh
+
 npx create-bottender-app my-app
+
 ```
 
-> **Note:** `npx` comes with npm 5.2+ and higher, see [npx command introduction](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b).
+&gt; **Note:** `npx` comes with npm 5.2+ and higher, see [npx command introduction](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b).
 
 After going through the steps, you see a directory named `my-app` containing a new Bottender project with every Bottender's dependency installed:
 
@@ -23,8 +25,10 @@ After going through the steps, you see a directory named `my-app` containing a n
 Running the bot in [Bottender Console Mode](the-basics-console-mode.md) is the easiest way to run the bot. To run in Console Mode, provide the `--console` option to the `npm run dev` command:
 
 ```sh
+
 cd my-app
 npm run dev -- --console
+
 ```
 
 ![](https://user-images.githubusercontent.com/3382565/67745487-57991c80-fa5f-11e9-8eb7-9e4144df9e73.png)
@@ -38,9 +42,11 @@ The next step is teaching your bot to send back what it receives. Let's see how 
 The `src/index.js` file is the entry point of the app created by Create Bottender App. You may find the following few lines of code in the `src/index.js` file:
 
 ```js
+
 module.exports = async function App(context) {
   await context.sendText('Welcome to Bottender');
 };
+
 ```
 
 Whenever Bottender invokes the `App` function, the `App` function always calls `context.sendText()` to reply with the "Welcome to Bottender".
@@ -48,12 +54,14 @@ Whenever Bottender invokes the `App` function, the `App` function always calls `
 To make the bot send back what it receives, open the `src/index.js` file in your preferred code editor and apply the following changes to the code:
 
 ```diff
+
 module.exports = async function App(context) {
 - await context.sendText('Welcome to Bottender');
 + if (context.event.isText) {
 +   await context.sendText(context.event.text);
 + }
 });
+
 ```
 
 After applying the changes, Bottender restarts the app automatically.

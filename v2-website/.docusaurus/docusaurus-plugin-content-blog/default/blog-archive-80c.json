@@ -1,0 +1,236 @@
+{
+  "blogPosts": [
+    {
+      "id": "Bottender 1.4: Customizable Session Store, Messenger, LINE Features, Multi-language Documentation",
+      "metadata": {
+        "permalink": "/blog/2020/04/17/bottender-1_4",
+        "source": "@site/blog/2020-04-17-bottender-1_4.md",
+        "title": "Bottender 1.4: Customizable Session Store, Messenger, LINE Features, Multi-language Documentation",
+        "description": "Today we are very excited to introduce Bottender 1.4, featuring:",
+        "date": "2020-04-17T00:00:00.000Z",
+        "formattedDate": "April 17, 2020",
+        "tags": [],
+        "readingTime": 4.815,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "nextItem": {
+          "title": "Notice of LINE domain name change for certain endpoints",
+          "permalink": "/blog/2020/04/08/line-domain-name-change"
+        }
+      }
+    },
+    {
+      "id": "Notice of LINE domain name change for certain endpoints",
+      "metadata": {
+        "permalink": "/blog/2020/04/08/line-domain-name-change",
+        "source": "@site/blog/2020-04-08-line-domain-name-change.md",
+        "title": "Notice of LINE domain name change for certain endpoints",
+        "description": "According to the Notice of domain name change for certain endpoints post on LINE Developer News, the domain name of the following LINE Messaging API endpoints has been changed from api.line.me to api-data.line.me during the transition period:",
+        "date": "2020-04-08T00:00:00.000Z",
+        "formattedDate": "April 8, 2020",
+        "tags": [],
+        "readingTime": 0.59,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "prevItem": {
+          "title": "Bottender 1.4: Customizable Session Store, Messenger, LINE Features, Multi-language Documentation",
+          "permalink": "/blog/2020/04/17/bottender-1_4"
+        },
+        "nextItem": {
+          "title": "Bottender 1.3: WhatsApp Support, TypeScript Improvement",
+          "permalink": "/blog/2020/03/06/bottender-1_3"
+        }
+      }
+    },
+    {
+      "id": "Bottender 1.3: WhatsApp Support, TypeScript Improvement",
+      "metadata": {
+        "permalink": "/blog/2020/03/06/bottender-1_3",
+        "source": "@site/blog/2020-03-06-bottender-1_3.md",
+        "title": "Bottender 1.3: WhatsApp Support, TypeScript Improvement",
+        "description": "We are excited to introduce Bottender 1.3 today, featuring:",
+        "date": "2020-03-06T00:00:00.000Z",
+        "formattedDate": "March 6, 2020",
+        "tags": [],
+        "readingTime": 3,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "prevItem": {
+          "title": "Notice of LINE domain name change for certain endpoints",
+          "permalink": "/blog/2020/04/08/line-domain-name-change"
+        },
+        "nextItem": {
+          "title": "Bottender 1.2: Serverless, NLU Integration, and More",
+          "permalink": "/blog/2020/01/22/bottender-1_2"
+        }
+      }
+    },
+    {
+      "id": "Bottender 1.2: Serverless, NLU Integration, and More",
+      "metadata": {
+        "permalink": "/blog/2020/01/22/bottender-1_2",
+        "source": "@site/blog/2020-01-22-bottender-1_2.md",
+        "title": "Bottender 1.2: Serverless, NLU Integration, and More",
+        "description": "We are excited to introduce Bottender 1.2 today, featuring:",
+        "date": "2020-01-22T00:00:00.000Z",
+        "formattedDate": "January 22, 2020",
+        "tags": [],
+        "readingTime": 3.58,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "prevItem": {
+          "title": "Bottender 1.3: WhatsApp Support, TypeScript Improvement",
+          "permalink": "/blog/2020/03/06/bottender-1_3"
+        },
+        "nextItem": {
+          "title": "Bottender 1.1: Multi-Channel Routing, Better Slack APIs Support in Chat, View, Block Kit",
+          "permalink": "/blog/2019/12/27/bottender-1_1"
+        }
+      }
+    },
+    {
+      "id": "Bottender 1.1: Multi-Channel Routing, Better Slack APIs Support in Chat, View, Block Kit",
+      "metadata": {
+        "permalink": "/blog/2019/12/27/bottender-1_1",
+        "source": "@site/blog/2019-12-27-bottender-1_1.md",
+        "title": "Bottender 1.1: Multi-Channel Routing, Better Slack APIs Support in Chat, View, Block Kit",
+        "description": "In Bottender v1.1, we made two remarkable improvements in:",
+        "date": "2019-12-27T00:00:00.000Z",
+        "formattedDate": "December 27, 2019",
+        "tags": [],
+        "readingTime": 1.945,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "prevItem": {
+          "title": "Bottender 1.2: Serverless, NLU Integration, and More",
+          "permalink": "/blog/2020/01/22/bottender-1_2"
+        },
+        "nextItem": {
+          "title": "Bottender 1.0: Create Bottender App, Router, Action Runner and Bottender.js.org",
+          "permalink": "/blog/2019/12/05/bottender-1"
+        }
+      }
+    },
+    {
+      "id": "Bottender 1.0: Create Bottender App, Router, Action Runner and Bottender.js.org",
+      "metadata": {
+        "permalink": "/blog/2019/12/05/bottender-1",
+        "source": "@site/blog/2019-12-05-bottender-1.md",
+        "title": "Bottender 1.0: Create Bottender App, Router, Action Runner and Bottender.js.org",
+        "description": "We're very proud to announce the production-ready Bottender 1.0 today, featuring:",
+        "date": "2019-12-05T00:00:00.000Z",
+        "formattedDate": "December 5, 2019",
+        "tags": [],
+        "readingTime": 4.55,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "prevItem": {
+          "title": "Bottender 1.1: Multi-Channel Routing, Better Slack APIs Support in Chat, View, Block Kit",
+          "permalink": "/blog/2019/12/27/bottender-1_1"
+        },
+        "nextItem": {
+          "title": "Bottender 0.15",
+          "permalink": "/blog/2018/08/03/bottender-0_15"
+        }
+      }
+    },
+    {
+      "id": "Bottender 0.15",
+      "metadata": {
+        "permalink": "/blog/2018/08/03/bottender-0_15",
+        "source": "@site/blog/2018-08-03-bottender-0_15.md",
+        "title": "Bottender 0.15",
+        "description": "After half an year of our open source journey, we are thrilled to finally introduce our latest work - Bottender v0.15. With the release this time, not only did we make tremendous progress from our experiences previously, we also benefited quite a lot by the feedback from the whole community, which we are highly appreciative of. Thanks to your support and feedback for us to get here today.",
+        "date": "2018-08-03T00:00:00.000Z",
+        "formattedDate": "August 3, 2018",
+        "tags": [],
+        "readingTime": 4.35,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "prevItem": {
+          "title": "Bottender 1.0: Create Bottender App, Router, Action Runner and Bottender.js.org",
+          "permalink": "/blog/2019/12/05/bottender-1"
+        },
+        "nextItem": {
+          "title": "Bottender",
+          "permalink": "/blog/2017/10/31/bottender"
+        }
+      }
+    },
+    {
+      "id": "Bottender",
+      "metadata": {
+        "permalink": "/blog/2017/10/31/bottender",
+        "source": "@site/blog/2017-10-31-bottender.md",
+        "title": "Bottender",
+        "description": "We're very proud to open-source Bottender, a JavaScript framework for cross-platform bots, built on top of Messaging-APIs and lots of great tools from the JavaScript community!",
+        "date": "2017-10-31T00:00:00.000Z",
+        "formattedDate": "October 31, 2017",
+        "tags": [],
+        "readingTime": 2.875,
+        "truncated": false,
+        "authors": [
+          {
+            "name": "C. T. Lin",
+            "title": "Co-Creator of Bottender",
+            "url": "https://twitter.com/chentsulin",
+            "imageURL": "https://avatars1.githubusercontent.com/u/3382565?s=460&v=4"
+          }
+        ],
+        "prevItem": {
+          "title": "Bottender 0.15",
+          "permalink": "/blog/2018/08/03/bottender-0_15"
+        }
+      }
+    }
+  ]
+}
